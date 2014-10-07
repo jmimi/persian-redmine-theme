@@ -1,2 +1,2 @@
-persian-theme
+persian-redmine-theme
 =============
